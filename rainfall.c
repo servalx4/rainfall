@@ -9,7 +9,7 @@
 int main(int argc, char *argv[]) {
     if (argc > 1 && strcmp(argv[1], "--help") == 0) {
         printf("\nrainfall v1\n");
-        printf("written in C by sunlitHorizon\n");
+        printf("written in C by servalx4\n");
         printf("\nInstructions:\n");
         printf("--help | show this menu\n");
         printf("k/K    | toggle paused/unpaused\n");
